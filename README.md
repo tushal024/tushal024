@@ -18,9 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tushal024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Contributions](https://ghchart.rshah.org/tushal024)
 
-![GitHub Contributions](https://ghchart.rshah.org/tushal024?bg=black&color=6e4ef2&line=gray&width=600&height=200)
+
+![GitHub Contributions](https://ghchart.rshah.org/tushal024?bg=black&color=Majorelle_Blue&line=gray&width=600&height=200)
 
 
 
