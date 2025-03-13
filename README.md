@@ -20,7 +20,7 @@
 
 
 
-![GitHub Contributions](https://ghchart.rshah.org/tushal024?bg=black&color=blue&line=white&width=600&height=200)
+
 
 
 
