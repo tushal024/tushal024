@@ -20,6 +20,9 @@
 
 ![GitHub Contributions](https://ghchart.rshah.org/tushal024)
 
+![GitHub Contributions](https://ghchart.rshah.org/tushal024?width=500&height=200&bg=gray&color=blue&line=green)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
